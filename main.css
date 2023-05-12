@@ -33,9 +33,7 @@ map{
     border-color: pink;
     outline: none;
 }
-#clicker {
-    display: none;
-}
+
 .marker:focus .click {
     opacity: 1;
 }
@@ -43,6 +41,10 @@ map{
 
 .visible {
     display: block;
+}
+
+.hidden {
+    display: none;
 }
 
 p {
