@@ -1,0 +1,60 @@
+img{
+    max-width: 100%;
+}
+
+body{
+    margin: 0;
+}
+
+map{
+    background-color: brown;
+}
+
+.bildcontainer {
+    position: relative;
+}
+
+.marker {
+    position: absolute;
+    border: solid;
+    display: block;
+    border-radius: 50%;
+}
+
+.marker:hover {
+    border-color: blue;
+}
+
+.marker:active {
+    border-color: yellow;
+}
+
+.marker:focus {
+    border-color: pink;
+    outline: none;
+}
+
+.marker:focus .click {
+    opacity: 1;
+}
+
+
+
+
+.content {
+    opacity: 0;
+    padding: 10px;
+    background-color: white;
+    border: solid;
+
+    transition: all .3s;
+}
+
+.visible {
+    opacity: 1;
+    display: block;
+}
+
+p {
+    background-color: white;
+}
