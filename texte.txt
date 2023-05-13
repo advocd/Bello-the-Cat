@@ -1,0 +1,10 @@
+Anklicken Barkeeper:
+„Hallo mein Freund, lange nicht mehr gesehen! Willkommen in meiner bescheidenen Taverne, setz dich gerne hin, das erste Getränk geht aufs Haus.“
+Anklicken Trinker 1:
+„Oh mein Sohn, mein armer Sohn, wo bist du nur. Eine Katze? Ja, ich habe eine gesehen beim Friedhof, als ich unser Familiengrab besuchte. (Mann weint weiter)“
+Anklicken Trinker 2:
+„Du suchst eine Katze? Meinst du ein Leopard oder ein Berglöwe? Nein? Ansonsten habe ich nur eine dieser kleinen und erbärmlichen Exemplare bei dem altem Schiff gesehen“
+Anklicken Trinker 3:
+„Ich weiß nichts über eine sogenannte „Katze“, ich bin nur eine einfache Bäuerin. Doch frag einmal die Lehrerin in der Schule, die sammelt immer willkürlich Zeugs von den Kindern ein, vielleicht ist dieses Ding das du erwähnst ja im Lehrerzimmer.“
+
+Der Plan ist, das sobald alle Charaktere angeklickt wurde Episode 1 vorbei ist und man in die anderen Gebäude gehen kann um andere Personen anzuklicken und die bereits getroffenen Charaktere auch andere Dialoge haben.
