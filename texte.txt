@@ -8,3 +8,27 @@ Anklicken Trinker 3:
 „Ich weiß nichts über eine sogenannte „Katze“, ich bin nur eine einfache Bäuerin. Doch frag einmal die Lehrerin in der Schule, die sammelt immer willkürlich Zeugs von den Kindern ein, vielleicht ist dieses Ding das du erwähnst ja im Lehrerzimmer.“
 
 Der Plan ist, das sobald alle Charaktere angeklickt wurde Episode 1 vorbei ist und man in die anderen Gebäude gehen kann um andere Personen anzuklicken und die bereits getroffenen Charaktere auch andere Dialoge haben.
+
+Kirche und Friedhof:
+
+Federn auf Friedhof: „Der Detektiv endtdeckte ein Haufen seltsam glitzender Federn liegt auf dem Friedhof“
+Buch auf dem Altar: „Ein rotes, stark abgenutztes Buch, es kann nur noch „ Herr ….. inge“ auf dem Buchrücken entziffert werden. Dieses Dorf verwirrte den Detektiv immer mehr.“
+Bänke: „Die Kirchenbänke waren bestückt mit wauschig, wolligen Blumenkissen.“
+
+Taverne:
+
+Kamin: „Das Feuer des prasselte dem Detektiv wohlig warm ins Gesicht des Detektives“
+Bärenfell: „Verdutzt sah der Detektiv auf das Bergelefantenfell. Solche waren selten.“
+Bar: „Die Bar, ein alter Freund des Detektivs. Sie hatten sich damals auf der Polizeiakademie getroffen. Es war schön zu sehen, das sein Freund ein erfolgreiches Leben zu führen schien“
+
+Schule:
+
+Schülerbänke: „Der Detektiv war beeindruckt von der modernen Innenausstattung nach japanischem Stil. Jetzt bräuchte es im Dorf nur noch Kinder, dachte er sich.“
+Skelett im Schopf: „ Der Detektiv trauerte bei dem Anblick des Skelettes, den war es doch aus Plastik, hatte es keine Beine mehr.
+Bücherregal: „Der Detektiv erblickte ein Bücherregal gefüllt mit 30 Kopien von ein und demselben Buch, „Kodex Internationale Rechnungslegung IAS/IFRS“
+
+Schiff:
+
+Kisten: „Der Detektiv betrachtete die Güter, die nur noch auf ihren Zug warteten, doch ihm fiel nichts ungewöhnliches an ihnen auf.“
+
+Das alte Schiff: „Ein herzergreifendes Stück der Schiffsbaukunst, und leider von den Bewohnern vernachlässigt. Dem Detektiv schmerzte es in der Brust bei dem Gedanken, dass es nie wieder durch die Wälder schippern würde.“
