@@ -25,6 +25,9 @@ map{
     border-radius: 50%;
 }
 
+a:visited {
+    border-color: black;
+}
 .marker:hover {
     border-color: blue;
 }
