@@ -68,8 +68,7 @@ a:visited {
     position: absolute;
     top:15%;
     left:15%;
-    max-height:70vh;
-    max-width:70vw;
+    min-width:70vw;
     font-family: Coming Soon;
     text-align:center;
     display: grid;
