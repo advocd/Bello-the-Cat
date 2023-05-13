@@ -32,3 +32,19 @@ Schiff:
 Kisten: „Der Detektiv betrachtete die Güter, die nur noch auf ihren Zug warteten, doch ihm fiel nichts ungewöhnliches an ihnen auf.“
 
 Das alte Schiff: „Ein herzergreifendes Stück der Schiffsbaukunst, und leider von den Bewohnern vernachlässigt. Dem Detektiv schmerzte es in der Brust bei dem Gedanken, dass es nie wieder durch die Wälder schippern würde.“
+
+
+
+Der Markt: „Der Detektiv schaute auf den Markt und bekam Lust auf die Bananen, die schön begradigt auf den Tresen lagen.“
+
+
+Schienen: „Der Detektiv hielt sich natürlich an die Regeln und betrat nicht die Schienen, auch wenn sie mit nichts verbunden waren.“
+
+
+Anklicken Charaktere:
+
+Pfarrer: „Sprich Freund und tritt ein.“
+
+Lehrerin: „Was hast du da? Das ist hier nicht erlaubt“ (Die Lehrerin konfisziert Rüdigers Hello Doggy Stift.)
+
+Schaffner: „Fahrkarten bitte und weg von den Gleisen, der Zug fährt bald ein. Alternativ können noch Obst für die Reise und Tickets für die Schiffsbesichtigungen gekauft werden.
